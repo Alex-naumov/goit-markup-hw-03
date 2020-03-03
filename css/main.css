@@ -1,0 +1,44 @@
+
+a{
+    text-decoration: none;
+}
+
+h3{
+    font-family: 'Playfair Display', serif;
+    font-weight: 400;
+    font-size: 30px;
+    color: #626262;
+}
+p{
+    font-family: 'Playfair Display', serif;
+    font-weight: 400;
+    font-size: 14px;
+    color: #626262;
+}
+img{
+    width: 420px;
+    
+
+}
+.nav_btn{
+    font-family: 'Playfair Display', serif;
+    font-weight: 400;
+    font-size: 14px;
+    color: #626262;
+    text-transform: uppercase;
+}
+
+
+.img_text{
+    color: #b4ad9e;
+    font-family: 'Ubuntu', sans-serif;
+    font-weight: 300;
+    font-size: 14px ;
+}
+.footer_btn{
+    font-family: 'Playfair Display', serif;
+    font-weight: 400;
+    font-size: 20px;
+    color: #626262;
+
+}
