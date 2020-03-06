@@ -20,7 +20,7 @@ img{
     
 
 }
-.nav_btn{
+.nav_link{
     font-family: 'Playfair Display', serif;
     font-weight: 400;
     font-size: 14px;
@@ -35,7 +35,7 @@ img{
     font-weight: 300;
     font-size: 14px ;
 }
-.footer_btn{
+.bottom_btn{
     font-family: 'Playfair Display', serif;
     font-weight: 400;
     font-size: 20px;
